@@ -1,9 +1,6 @@
 export class Cliente {
-    nome;
 
-
-    _cpf; //Atributo privado
-
+    //_cpf; //Atributo privado
 
     get cpf(){
         return this._cpf;
